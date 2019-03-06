@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2018
 client: Personal & Professional
 category: Encryption Software
-description: Iroha is a text and file encryption program that will be ran with its own GUI or through terminal. It will include at least 26 classical ciphers and of course modern encryption for disk and file encryption.
+description: Iroha is a text and file encryption program that will be ran with its own GUI or through terminal. It will include at least 26 classical ciphers and of course modern encryption for disk and file encryption. It is written in Java and will be compatible with Linux, Windows, and MacOS.
 
 ---
