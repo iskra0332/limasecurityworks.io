@@ -1,12 +1,12 @@
 ---
-layout: default
-modal-id: 2
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: November 2018
-client: Start Bootstrap
-category: Encryption Software
-description: Iroha is a text and file encryption program that will be ran with its own GUI or through terminal. It will include at least 26 classical ciphers and of course modern encryption for disk and file encryption.
+layout: 
+modal-id: 1
+date:
+img:
+alt:
+project-date:
+client:
+category:
+description:
 
 ---
